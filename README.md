@@ -7,22 +7,11 @@
   Gatsby v5 starter
 </h1>
 <h3 align="center">
- with the support of TypeScript, TailwindCSS, and Jest.
+with the support of TypeScript, TailwindCSS, and Jest.
 </h3>
 
-This starter uses Gatsby's version 5 and have support
+This starter uses Gatsby's version 5 and has support
 for [TypeScript](https://www.typescriptlang.org/), [TailwindCSS](https://tailwindcss.com/), and unit testing with [Jest](https://jestjs.io/).
-
-```shell
-    "gatsby": "^5.11.0",
-    "gatsby-plugin-image": "^3.11.0",
-    "gatsby-plugin-postcss": "^6.11.0",
-    "gatsby-plugin-sharp": "^5.11.0",
-    "gatsby-transformer-remark": "^6.11.0",
-    "gatsby-transformer-sharp": "^5.11.0",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
-```
 
 ## 🚀 Quick start
 
@@ -97,7 +86,7 @@ A quick look at the top-level files and directories you'll see in a typical Gats
 
 ## 🎓 Learning Gatsby
 
-Looking for more guidance? Full documentation for Gatsby lives [on the website](https://www.gatsbyjs.com/). Here are some places to start:
+Looking for more guidance? Full documentation for Gatsby Lives [on the website](https://www.gatsbyjs.com/). Here are some places to start:
 
 - **For most developers, we recommend starting with our [in-depth tutorial for creating a site with Gatsby](https://www.gatsbyjs.com/docs/tutorial/getting-started/).** It starts with zero assumptions about your level of ability and walks through every step of the process.
 
