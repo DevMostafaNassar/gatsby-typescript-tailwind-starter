@@ -1,0 +1,51 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "My website starter using Gatsby.js,Typescript, TailwindCSS, and React Testing Library Jest.",
+  "author": "Mostafa Nassar <mostafanassar.com>",
+  "keywords": [
+    "gatsby",
+    "Gatsby.js",
+    "tailwind",
+    "TailwindCSS",
+    "Typescript",
+    "React Testing Library",
+    "jest"
+  ],
+  "scripts": {
+    "develop": "gatsby develop -H 0.0.0.0",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "typecheck": "tsc --noEmit",
+    "test": "jest"
+  },
+  "dependencies": {
+    "gatsby": "^5.11.0",
+    "gatsby-plugin-image": "^3.11.0",
+    "gatsby-plugin-manifest": "^5.11.0",
+    "gatsby-plugin-postcss": "^6.11.0",
+    "gatsby-plugin-sharp": "^5.11.0",
+    "gatsby-transformer-remark": "^6.11.0",
+    "gatsby-transformer-sharp": "^5.11.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@babel/preset-typescript": "^7.22.5",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^14.0.0",
+    "@types/jest": "^29.5.2",
+    "@types/node": "^20.3.1",
+    "@types/react": "^18.2.12",
+    "@types/react-dom": "^18.2.5",
+    "autoprefixer": "^10.4.14",
+    "babel-jest": "^29.5.0",
+    "jest-environment-jsdom": "^29.5.0",
+    "postcss": "^8.4.24",
+    "tailwindcss": "^3.3.2",
+    "typescript": "^5.1.3"
+  }
+}
