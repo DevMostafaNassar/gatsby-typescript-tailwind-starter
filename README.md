@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby v5 starter
+  Gatsby v5 minimal starter
 </h1>
 <h3 align="center">
 with the support of TypeScript, TailwindCSS, and Jest.
@@ -59,8 +59,7 @@ A quick look at the top-level files and directories you'll see in a typical Gats
     ├── gatsby-browser.ts
     ├── gatsby-config.ts
     ├── gatsby-node.ts
-    ├── gatsby-ssr.ts
-    ├── LICENSE
+    ├── gatsby-ssr.ts    
     ├── package.json
     └── README.md
 
